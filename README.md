@@ -1,2 +1,2 @@
-# arrmateys
-This R code allows you to use the Twitter streaming API to collect tweets based on user-defined search terms. 
+# Rmateys
+I will post up the code from the RMatey's meetings in this repository!
