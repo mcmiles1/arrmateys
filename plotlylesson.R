@@ -1,7 +1,7 @@
 install.packages("plotly")
 library("plotly")
 
-setwd("C:\\Users\\Dorris\\Documents\\R stuff\\RMateys") #add your directory!
+setwd("") #add your directory!
 
 pizza<-read.csv("pizza.csv")
 
